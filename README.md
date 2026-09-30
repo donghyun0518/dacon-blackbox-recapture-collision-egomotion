@@ -247,4 +247,4 @@ S3 체크포인트 5개에서 로컬과 eval의 **순위상관이 0.0**이었다
 - **공개 예시는 평가셋이 아니다** — 예시로 정한 방향 하나 때문에 제출 2회를 잃었다. 예시는 형식 확인에만 쓴다
 - **1인 + 에이전트 분업** — Claude Code가 설계·분석을 맡았고 마지막 주에는 구현·학습 실행도 했다. Codex는 승인된 설계를 구현했다(Track A 등). 본인은 목표·최종 결정·모든 제출을 맡았다. Stage별 병렬 세션이 하루 3회 한도를 나눠 썼고, 결정 대부분을 실험 로그(5,119줄)와 사전등록 문서·제출 영수증에 남겼다(09-14~23 S3 작업과 최종 합본 제출은 로그 밖 문서에 있음)
 
-<sub>Python · PyTorch 2.8 · timm (EfficientNetV2-S) · torchvision (RAFT-small) · transformers (Qwen3-VL-2B) · OpenCV · RunPod (L40S / A6000) · Claude Code + Codex</sub>
+<sub>Python · PyTorch 2.8 · timm (EfficientNetV2-S) · torchvision (RAFT-small) · transformers (Qwen3-VL-2B) · OpenCV · RunPod (L40S / A6000)</sub>
